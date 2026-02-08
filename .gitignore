@@ -1,0 +1,15 @@
+# Environment
+.env
+backend/.env
+frontend/.env
+
+# Node
+node_modules
+dist
+dist-ssr
+*.log
+
+# Editor/OS
+.DS_Store
+.vscode/
+
